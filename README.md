@@ -9,7 +9,7 @@ To build this text editor, you will start with an existing application and imple
 ## Project Purpose
 This is a fun way to show how you can create notes or code snippets offline as in no internet connection needed! It saves all the info so you can retrieve it later
 
-Live link: 
+Live link: https://go-text-editor.onrender.com
 
 Key Features:
 1. Javascript files are bundled with webpack
